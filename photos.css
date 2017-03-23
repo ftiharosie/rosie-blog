@@ -1,0 +1,103 @@
+body{
+  background:linear-gradient(white, #ffff99,#80bfff,#66c2ff, #ffff80,#ffff33,#ffa64d,#53c653);
+
+
+}
+h1 {
+  color:#00ccff;
+  text-align:center;
+  font-size:55px;
+}
+h2 {
+  margin-left: 30px;
+  font-family: cursive;
+  font-size:35px;
+}
+button {
+  font-size:18px;
+  color:#520066;
+  background:#99ffcc;
+  margin:auto;
+}
+#paris {
+  width: 650px;
+  height: 350px;
+}
+#punta{
+  width: 650px;
+    height: 350px;
+}
+#israel{
+  width: 650px;
+    height: 350px;
+    margin-bottom: 22px;
+}
+
+#greece{
+  width: 650px;
+    height: 350px;
+}
+#italy{
+  width: 650px;
+    height: 350px;
+}
+
+#australia{
+  width: 650px;
+    height: 350px;
+}
+
+#canada{
+  width: 650px;
+    height: 350px;
+}
+
+#hawaii{
+  width: 650px;
+    height: 350px;
+}
+
+#losangeles{
+  width: 650px;
+    height: 350px;
+}
+
+#cancun{
+  width: 650px;
+    height: 350px;
+}
+
+#loscabos{
+  width: 650px;
+    height: 350px;
+}
+
+#puertoplata{
+  width: 650px;
+    height: 350px;
+}
+
+#borabora{
+  width: 650px;
+    height: 350px;
+}
+
+#london{
+  width: 650px;
+    height: 350px;
+}
+
+#riodejaneiro{
+  width: 650px;
+    height: 350px;
+}
+
+#dubai{
+  width: 650px;
+    height: 350px;
+}
+
+#santamonica{
+  width: 650px;
+    height: 350px;
+}

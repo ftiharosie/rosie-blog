@@ -1,0 +1,288 @@
+h1 {
+  text-align:center;
+}
+
+
+body{
+  background-size: auto 100%;
+  background:linear-gradient(white,#ffff80,#99ffff,#00e6e6,#b3ffb3);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat:no-repeat;
+  margin: 50px;
+}
+
+html {
+  /*height:100%;
+  background-size: auto 100%;
+  background:linear-gradient(white,#ffffcc,#ff99ff,#cc33ff,#66b3ff);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat:no-repeat;*/
+}
+
+#Rosie {
+  color:#ffff1a;
+  text-align:center;
+  font-size:45px;
+
+}
+
+#coding{
+  color:darkblue;
+  text-align:center;
+}
+#mapworld {
+  width:auto;
+  display:block;
+  margin:auto;
+}
+div {
+  text-align:center;
+  font-size:35px;
+  color:#4dff88;
+}
+#Rosie:hover{
+  background-color:#ff1a75;
+}
+#explore{
+  text-align: center;
+  margin-bottom: 25px;
+  margin-top: 25px;
+}
+button {
+  font-size:30px;
+  color:#520066;
+  background:#99ffcc;
+  margin:auto;
+}
+
+#canada{
+    font-size: 35px;
+    text-align:left;
+}
+
+#canadapic{
+ width: 600px;
+  height: 300px;
+}
+#northamerica{
+    font-size: 76px;
+}
+
+#europe{
+    font-size: 76px;
+}
+
+#southamerica{
+    font-size: 76px;
+}
+
+#northamerica{
+    font-size: 76px;
+}
+#africa{
+    font-size: 76px;
+}
+
+#asia{
+    font-size: 76px;
+}
+
+#australia{
+    font-size: 76px;
+}
+
+#cancun{
+  width: 600px;
+   height: 300px;
+}
+
+#losangeles{
+  width: 600px;
+   height: 300px;
+}
+
+#puertoplata{
+  width: 600px;
+   height: 300px;
+}
+
+#santamonica{
+  width: 600px;
+   height: 300px;
+}
+
+#punta{
+  width: 600px;
+   height: 300px;
+}
+
+#loscabos{
+  width: 600px;
+   height: 300px;
+}
+
+#riodejaneiro{
+  width: 600px;
+   height: 300px;
+}
+
+#argentina{
+  width: 600px;
+   height: 300px;
+}
+
+#chile{
+  width: 600px;
+   height: 300px;
+}
+
+#peru{
+  width: 600px;
+   height: 300px;
+}
+
+#brazil{
+  width: 600px;
+   height: 300px;
+}
+
+#columbia{
+  width: 600px;
+   height: 300px;
+}
+
+#israel{
+  width: 600px;
+   height: 300px;
+}
+
+#paris{
+  width: 600px;
+   height: 300px;
+}
+
+#greece{
+  width: 600px;
+   height: 300px;
+}
+
+#italy{
+  width: 600px;
+   height: 300px;
+}
+
+#london{
+  width: 600px;
+   height: 300px;
+}
+
+#dubai{
+  width: 600px;
+   height: 300px;
+}
+
+#tenerife{
+  width: 600px;
+   height: 300px;
+}
+
+#mauritius{
+  width: 600px;
+   height: 300px;
+}
+
+#lanzarote{
+  width: 600px;
+   height: 300px;
+}
+
+p {
+  width:600px;
+}
+
+#fuerteventura{
+  width: 600px;
+   height: 300px;
+}
+
+#brunei{
+  width: 600px;
+   height: 300px;
+}
+
+#malaysia{
+  width: 600px;
+   height: 300px;
+}
+
+#timor{
+  width: 600px;
+   height: 300px;
+}
+
+#philippines{
+  width: 600px;
+   height: 300px;
+}
+
+#darwin{
+  width: 600px;
+   height: 300px;
+}
+
+#perth{
+  width: 600px;
+   height: 300px;
+}
+
+#melbourne{
+  width: 600px;
+   height: 300px;
+}
+
+#Cairns{
+  width: 600px;
+   height: 300px;
+}
+
+#islands{
+    font-size: 76px;
+  }
+
+#borabora{
+    width: 600px;
+     height: 300px;
+  }
+
+  #fiji{
+    width: 600px;
+     height: 300px;
+  }
+
+  #samoa{
+    width: 600px;
+     height: 300px;
+  }
+#sevesong{
+  display:none;
+}
+#tropical{
+  display:none;
+}
+#vamos{
+  display:none;
+}
+
+#parissong{
+  display:none;
+}
+
+#africansong{
+  display:none;
+}
